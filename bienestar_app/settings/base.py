@@ -12,7 +12,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-k&)ag%vqw*f!o@jck_ku#kc)vkp2eid7*^#iaf80&y#@kpcc6k'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['django-react-apphbu-e9cwe6h0fahbduan.canadacentral-01.azurewebsites.net',
     '127.0.0.1',
